@@ -40,8 +40,8 @@ After training, the agent's total reward per episode settles at roughly **-17 to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/sarsa-cliff-walking.git
-   cd sarsa-cliff-walking
+   git clone https://github.com/dnyanu-5/SARSA---Cliff-Walking-.git
+   cd sarsa-Cliff_Walking(1)
    ```
 2. Install the dependencies:
    ```bash
