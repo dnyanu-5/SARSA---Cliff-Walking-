@@ -36,8 +36,6 @@ The agent chooses actions with an **epsilon-greedy** policy: it explores a rando
 
 After training, the agent's total reward per episode settles at roughly **-17 to -20**. A reward of -17 matches the safe path: up 3 rows, right 11 columns, down 3 rows. Because SARSA accounts for its own random exploration, it prefers this safer route over walking right next to the cliff edge.
 
-![Reward curve](reward_curve.png)
-
 ## Run It Yourself
 
 1. Clone the repository:
@@ -61,7 +59,6 @@ The last cell renders the trained agent walking to the goal in a game window.
 | File | Description |
 |---|---|
 | `sarsa_cliff_walking.ipynb` | Training and evaluation code |
-| `reward_curve.png` | Total reward per episode during training |
 
 ## What I Learned
 
@@ -78,4 +75,4 @@ The last cell renders the trained agent walking to the goal in a game window.
 
 ## Author
 
-**Dnyaneshwari** | GitHub: [@your-username](https://github.com/your-username)
+**Dnyaneshwari** | GitHub:
