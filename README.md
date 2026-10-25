@@ -75,4 +75,4 @@ The last cell renders the trained agent walking to the goal in a game window.
 
 ## Author
 
-**Dnyaneshwari** | GitHub:
+**Dnyaneshwari** | GitHub: @dnyanu-5 or https://github.com/dnyanu-5
